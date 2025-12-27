@@ -6,7 +6,7 @@ This project uses regression models to forecast product demand based on historic
 - Linear Regression
 - Ridge Regression
 - Lasso Regression
-- XGBoost (tested)
+- XGBoost
 ### Evaluation Metrics
 - MAE
 - RMSE
